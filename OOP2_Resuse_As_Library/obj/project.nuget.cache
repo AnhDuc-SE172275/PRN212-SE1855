@@ -1,14 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "oxSUWfZB/no=",
-  "success": true,
-  "projectFilePath": "C:\\PRN212\\Code\\OOP2\\OOP2.csproj",
-=======
   "dgSpecHash": "6ylI/uZGsoE=",
   "success": true,
   "projectFilePath": "C:\\PRN212\\Code\\OOP2_Resuse_As_Library\\OOP2_Resuse_As_Library.csproj",
->>>>>>> b605471 (OOP2_Resuse_As_Library)
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\PRN212\\Code\\OOP2_Resuse_As_Library\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\PRN212\\Code\\OOP2_Resuse_As_Library\\OOP2_Resuse_As_Library.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\PRN212\\Code\\OOP2_Resuse_As_Library\\OOP2_Resuse_As_Library.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

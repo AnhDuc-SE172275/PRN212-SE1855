@@ -90,3 +90,63 @@ for (int i = 0; i < employees.Count; i++)
         }
     }
 }
+
+
+// Hàm sửa thông tin nhân viên theo ID
+void UpdateEmployeeById(List<Employee> employees, int id)
+{
+    var employee = employees.FirstOrDefault(e => e.Id == id);
+    if (employee == null)
+    {
+        Console.WriteLine($"Không tìm thấy nhân viên với ID = {id}");
+        return;
+    }
+
+    Console.WriteLine($"Thông tin hiện tại: {employee}");
+
+    Console.Write("Nhập tên mới: ");
+    employee.Name = Console.ReadLine();
+
+    Console.Write("Nhập số CCCD mới: ");
+    employee.IdCard = Console.ReadLine();
+
+    Console.Write("Nhập ngày sinh mới (yyyy-MM-dd): ");
+    if (DateTime.TryParse(Console.ReadLine(), out DateTime newBirthday))
+    {
+        employee.Birthday = newBirthday;
+    }
+    else
+    {
+        Console.WriteLine("Ngày sinh không hợp lệ. Giữ nguyên.");
+    }
+
+    Console.WriteLine("Cập nhật thành công!");
+}
+
+// Hàm xoá nhân viên theo ID
+void DeleteEmployeeById(List<Employee> employees, int id)
+{
+    var employee = employees.FirstOrDefault(e => e.Id == id);
+    if (employee == null)
+    {
+        Console.WriteLine($"Không tìm thấy nhân viên với ID = {id}");
+        return;
+    }
+
+    employees.Remove(employee);
+    Console.WriteLine($"Đã xoá nhân viên có ID = {id}");
+}
+
+Console.WriteLine("---THỬ SỬA THÔNG TIN NHÂN VIÊN---");
+Console.Write("Nhập ID nhân viên cần sửa: ");
+int idUpdate = int.Parse(Console.ReadLine());
+UpdateEmployeeById(employees, idUpdate);
+
+Console.WriteLine("---THỬ XOÁ NHÂN VIÊN---");
+Console.Write("Nhập ID nhân viên cần xoá: ");
+int idDelete = int.Parse(Console.ReadLine());
+DeleteEmployeeById(employees, idDelete);
+
+// In lại danh sách nhân viên sau khi sửa/xoá
+Console.WriteLine("---DANH SÁCH SAU SỬA/XOÁ---");
+employees.ForEach(e => Console.WriteLine(e));

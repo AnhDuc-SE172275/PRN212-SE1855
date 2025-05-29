@@ -19,3 +19,4 @@ C:\PRN212\Code\OOP4_Genend_Collection\obj\Debug\net9.0\refint\OOP4_Generic_Colle
 C:\PRN212\Code\OOP4_Genend_Collection\obj\Debug\net9.0\OOP4_Generic_Collection.pdb
 C:\PRN212\Code\OOP4_Genend_Collection\obj\Debug\net9.0\OOP4_Generic_Collection.genruntimeconfig.cache
 C:\PRN212\Code\OOP4_Genend_Collection\obj\Debug\net9.0\ref\OOP4_Generic_Collection.dll
+C:\PRN212\Code\OOP4_Genend_Collection\obj\Debug\net9.0\OOP4_Generic_Collection.sourcelink.json
