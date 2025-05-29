@@ -1,0 +1,14 @@
+C:\PRN212\Code\Phuong trinh bac nhat\bin\Debug\net9.0\Phuong trinh bac nhat.exe
+C:\PRN212\Code\Phuong trinh bac nhat\bin\Debug\net9.0\Phuong trinh bac nhat.deps.json
+C:\PRN212\Code\Phuong trinh bac nhat\bin\Debug\net9.0\Phuong trinh bac nhat.runtimeconfig.json
+C:\PRN212\Code\Phuong trinh bac nhat\bin\Debug\net9.0\Phuong trinh bac nhat.dll
+C:\PRN212\Code\Phuong trinh bac nhat\bin\Debug\net9.0\Phuong trinh bac nhat.pdb
+C:\PRN212\Code\Phuong trinh bac nhat\obj\Debug\net9.0\Phuong trinh bac nhat.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212\Code\Phuong trinh bac nhat\obj\Debug\net9.0\Phuong trinh bac nhat.AssemblyInfoInputs.cache
+C:\PRN212\Code\Phuong trinh bac nhat\obj\Debug\net9.0\Phuong trinh bac nhat.AssemblyInfo.cs
+C:\PRN212\Code\Phuong trinh bac nhat\obj\Debug\net9.0\Phuong trinh bac nhat.csproj.CoreCompileInputs.cache
+C:\PRN212\Code\Phuong trinh bac nhat\obj\Debug\net9.0\Phuong trinh bac nhat.dll
+C:\PRN212\Code\Phuong trinh bac nhat\obj\Debug\net9.0\refint\Phuong trinh bac nhat.dll
+C:\PRN212\Code\Phuong trinh bac nhat\obj\Debug\net9.0\Phuong trinh bac nhat.pdb
+C:\PRN212\Code\Phuong trinh bac nhat\obj\Debug\net9.0\Phuong trinh bac nhat.genruntimeconfig.cache
+C:\PRN212\Code\Phuong trinh bac nhat\obj\Debug\net9.0\ref\Phuong trinh bac nhat.dll

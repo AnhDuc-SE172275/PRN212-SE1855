@@ -1,0 +1,14 @@
+C:\PRN212\Code\Sắp xếp\bin\Debug\net9.0\Sắp xếp.exe
+C:\PRN212\Code\Sắp xếp\bin\Debug\net9.0\Sắp xếp.deps.json
+C:\PRN212\Code\Sắp xếp\bin\Debug\net9.0\Sắp xếp.runtimeconfig.json
+C:\PRN212\Code\Sắp xếp\bin\Debug\net9.0\Sắp xếp.dll
+C:\PRN212\Code\Sắp xếp\bin\Debug\net9.0\Sắp xếp.pdb
+C:\PRN212\Code\Sắp xếp\obj\Debug\net9.0\Sắp xếp.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212\Code\Sắp xếp\obj\Debug\net9.0\Sắp xếp.AssemblyInfoInputs.cache
+C:\PRN212\Code\Sắp xếp\obj\Debug\net9.0\Sắp xếp.AssemblyInfo.cs
+C:\PRN212\Code\Sắp xếp\obj\Debug\net9.0\Sắp xếp.csproj.CoreCompileInputs.cache
+C:\PRN212\Code\Sắp xếp\obj\Debug\net9.0\Sắp xếp.dll
+C:\PRN212\Code\Sắp xếp\obj\Debug\net9.0\refint\Sắp xếp.dll
+C:\PRN212\Code\Sắp xếp\obj\Debug\net9.0\Sắp xếp.pdb
+C:\PRN212\Code\Sắp xếp\obj\Debug\net9.0\Sắp xếp.genruntimeconfig.cache
+C:\PRN212\Code\Sắp xếp\obj\Debug\net9.0\ref\Sắp xếp.dll

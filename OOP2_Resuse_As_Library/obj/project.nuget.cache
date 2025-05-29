@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "oxSUWfZB/no=",
+  "success": true,
+  "projectFilePath": "C:\\PRN212\\Code\\OOP2\\OOP2.csproj",
+=======
+  "dgSpecHash": "6ylI/uZGsoE=",
+  "success": true,
+  "projectFilePath": "C:\\PRN212\\Code\\OOP2_Resuse_As_Library\\OOP2_Resuse_As_Library.csproj",
+>>>>>>> b605471 (OOP2_Resuse_As_Library)
+  "expectedPackageFiles": [],
+  "logs": []
+}

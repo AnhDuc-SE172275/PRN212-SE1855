@@ -1,0 +1,14 @@
+C:\PRN212\Code\Truyền tham biến\bin\Debug\net9.0\Truyền tham biến.exe
+C:\PRN212\Code\Truyền tham biến\bin\Debug\net9.0\Truyền tham biến.deps.json
+C:\PRN212\Code\Truyền tham biến\bin\Debug\net9.0\Truyền tham biến.runtimeconfig.json
+C:\PRN212\Code\Truyền tham biến\bin\Debug\net9.0\Truyền tham biến.dll
+C:\PRN212\Code\Truyền tham biến\bin\Debug\net9.0\Truyền tham biến.pdb
+C:\PRN212\Code\Truyền tham biến\obj\Debug\net9.0\Truyền tham biến.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212\Code\Truyền tham biến\obj\Debug\net9.0\Truyền tham biến.AssemblyInfoInputs.cache
+C:\PRN212\Code\Truyền tham biến\obj\Debug\net9.0\Truyền tham biến.AssemblyInfo.cs
+C:\PRN212\Code\Truyền tham biến\obj\Debug\net9.0\Truyền tham biến.csproj.CoreCompileInputs.cache
+C:\PRN212\Code\Truyền tham biến\obj\Debug\net9.0\Truyền tham biến.dll
+C:\PRN212\Code\Truyền tham biến\obj\Debug\net9.0\refint\Truyền tham biến.dll
+C:\PRN212\Code\Truyền tham biến\obj\Debug\net9.0\Truyền tham biến.pdb
+C:\PRN212\Code\Truyền tham biến\obj\Debug\net9.0\Truyền tham biến.genruntimeconfig.cache
+C:\PRN212\Code\Truyền tham biến\obj\Debug\net9.0\ref\Truyền tham biến.dll

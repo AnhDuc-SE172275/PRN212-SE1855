@@ -1,0 +1,14 @@
+C:\PRN212\Code\Vòng lặp lồng nhau\bin\Debug\net9.0\Vòng lặp lồng nhau.exe
+C:\PRN212\Code\Vòng lặp lồng nhau\bin\Debug\net9.0\Vòng lặp lồng nhau.deps.json
+C:\PRN212\Code\Vòng lặp lồng nhau\bin\Debug\net9.0\Vòng lặp lồng nhau.runtimeconfig.json
+C:\PRN212\Code\Vòng lặp lồng nhau\bin\Debug\net9.0\Vòng lặp lồng nhau.dll
+C:\PRN212\Code\Vòng lặp lồng nhau\bin\Debug\net9.0\Vòng lặp lồng nhau.pdb
+C:\PRN212\Code\Vòng lặp lồng nhau\obj\Debug\net9.0\Vòng lặp lồng nhau.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212\Code\Vòng lặp lồng nhau\obj\Debug\net9.0\Vòng lặp lồng nhau.AssemblyInfoInputs.cache
+C:\PRN212\Code\Vòng lặp lồng nhau\obj\Debug\net9.0\Vòng lặp lồng nhau.AssemblyInfo.cs
+C:\PRN212\Code\Vòng lặp lồng nhau\obj\Debug\net9.0\Vòng lặp lồng nhau.csproj.CoreCompileInputs.cache
+C:\PRN212\Code\Vòng lặp lồng nhau\obj\Debug\net9.0\Vòng lặp lồng nhau.dll
+C:\PRN212\Code\Vòng lặp lồng nhau\obj\Debug\net9.0\refint\Vòng lặp lồng nhau.dll
+C:\PRN212\Code\Vòng lặp lồng nhau\obj\Debug\net9.0\Vòng lặp lồng nhau.pdb
+C:\PRN212\Code\Vòng lặp lồng nhau\obj\Debug\net9.0\Vòng lặp lồng nhau.genruntimeconfig.cache
+C:\PRN212\Code\Vòng lặp lồng nhau\obj\Debug\net9.0\ref\Vòng lặp lồng nhau.dll

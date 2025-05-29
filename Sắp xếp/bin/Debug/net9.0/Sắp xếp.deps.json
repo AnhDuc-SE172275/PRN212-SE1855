@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Sắp xếp/1.0.0": {
+        "runtime": {
+          "Sắp xếp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sắp xếp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

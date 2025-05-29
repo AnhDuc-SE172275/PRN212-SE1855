@@ -1,0 +1,14 @@
+C:\PRN212\Code\TryParse&Loop\bin\Debug\net9.0\TryParse&Loop.exe
+C:\PRN212\Code\TryParse&Loop\bin\Debug\net9.0\TryParse&Loop.deps.json
+C:\PRN212\Code\TryParse&Loop\bin\Debug\net9.0\TryParse&Loop.runtimeconfig.json
+C:\PRN212\Code\TryParse&Loop\bin\Debug\net9.0\TryParse&Loop.dll
+C:\PRN212\Code\TryParse&Loop\bin\Debug\net9.0\TryParse&Loop.pdb
+C:\PRN212\Code\TryParse&Loop\obj\Debug\net9.0\TryParse&Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212\Code\TryParse&Loop\obj\Debug\net9.0\TryParse&Loop.AssemblyInfoInputs.cache
+C:\PRN212\Code\TryParse&Loop\obj\Debug\net9.0\TryParse&Loop.AssemblyInfo.cs
+C:\PRN212\Code\TryParse&Loop\obj\Debug\net9.0\TryParse&Loop.csproj.CoreCompileInputs.cache
+C:\PRN212\Code\TryParse&Loop\obj\Debug\net9.0\TryParse&Loop.dll
+C:\PRN212\Code\TryParse&Loop\obj\Debug\net9.0\refint\TryParse&Loop.dll
+C:\PRN212\Code\TryParse&Loop\obj\Debug\net9.0\TryParse&Loop.pdb
+C:\PRN212\Code\TryParse&Loop\obj\Debug\net9.0\TryParse&Loop.genruntimeconfig.cache
+C:\PRN212\Code\TryParse&Loop\obj\Debug\net9.0\ref\TryParse&Loop.dll

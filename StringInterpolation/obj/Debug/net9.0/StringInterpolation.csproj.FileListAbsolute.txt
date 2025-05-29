@@ -1,0 +1,14 @@
+C:\PRN212\Code\StringInterpolation\bin\Debug\net9.0\StringInterpolation.exe
+C:\PRN212\Code\StringInterpolation\bin\Debug\net9.0\StringInterpolation.deps.json
+C:\PRN212\Code\StringInterpolation\bin\Debug\net9.0\StringInterpolation.runtimeconfig.json
+C:\PRN212\Code\StringInterpolation\bin\Debug\net9.0\StringInterpolation.dll
+C:\PRN212\Code\StringInterpolation\bin\Debug\net9.0\StringInterpolation.pdb
+C:\PRN212\Code\StringInterpolation\obj\Debug\net9.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212\Code\StringInterpolation\obj\Debug\net9.0\StringInterpolation.AssemblyInfoInputs.cache
+C:\PRN212\Code\StringInterpolation\obj\Debug\net9.0\StringInterpolation.AssemblyInfo.cs
+C:\PRN212\Code\StringInterpolation\obj\Debug\net9.0\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\PRN212\Code\StringInterpolation\obj\Debug\net9.0\StringInterpolation.dll
+C:\PRN212\Code\StringInterpolation\obj\Debug\net9.0\refint\StringInterpolation.dll
+C:\PRN212\Code\StringInterpolation\obj\Debug\net9.0\StringInterpolation.pdb
+C:\PRN212\Code\StringInterpolation\obj\Debug\net9.0\StringInterpolation.genruntimeconfig.cache
+C:\PRN212\Code\StringInterpolation\obj\Debug\net9.0\ref\StringInterpolation.dll

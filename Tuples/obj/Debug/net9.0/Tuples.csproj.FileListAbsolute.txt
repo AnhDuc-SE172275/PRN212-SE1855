@@ -1,0 +1,14 @@
+C:\PRN212\Code\Tuples\bin\Debug\net9.0\Tuples.exe
+C:\PRN212\Code\Tuples\bin\Debug\net9.0\Tuples.deps.json
+C:\PRN212\Code\Tuples\bin\Debug\net9.0\Tuples.runtimeconfig.json
+C:\PRN212\Code\Tuples\bin\Debug\net9.0\Tuples.dll
+C:\PRN212\Code\Tuples\bin\Debug\net9.0\Tuples.pdb
+C:\PRN212\Code\Tuples\obj\Debug\net9.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212\Code\Tuples\obj\Debug\net9.0\Tuples.AssemblyInfoInputs.cache
+C:\PRN212\Code\Tuples\obj\Debug\net9.0\Tuples.AssemblyInfo.cs
+C:\PRN212\Code\Tuples\obj\Debug\net9.0\Tuples.csproj.CoreCompileInputs.cache
+C:\PRN212\Code\Tuples\obj\Debug\net9.0\Tuples.dll
+C:\PRN212\Code\Tuples\obj\Debug\net9.0\refint\Tuples.dll
+C:\PRN212\Code\Tuples\obj\Debug\net9.0\Tuples.pdb
+C:\PRN212\Code\Tuples\obj\Debug\net9.0\Tuples.genruntimeconfig.cache
+C:\PRN212\Code\Tuples\obj\Debug\net9.0\ref\Tuples.dll

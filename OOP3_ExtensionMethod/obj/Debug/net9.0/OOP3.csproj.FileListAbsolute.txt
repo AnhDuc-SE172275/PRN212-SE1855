@@ -1,0 +1,14 @@
+C:\PRN212\Code\OOP3\obj\Debug\net9.0\OOP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212\Code\OOP3\obj\Debug\net9.0\OOP3.AssemblyInfoInputs.cache
+C:\PRN212\Code\OOP3\obj\Debug\net9.0\OOP3.AssemblyInfo.cs
+C:\PRN212\Code\OOP3\obj\Debug\net9.0\OOP3.csproj.CoreCompileInputs.cache
+C:\PRN212\Code\OOP3\bin\Debug\net9.0\OOP3.exe
+C:\PRN212\Code\OOP3\bin\Debug\net9.0\OOP3.deps.json
+C:\PRN212\Code\OOP3\bin\Debug\net9.0\OOP3.runtimeconfig.json
+C:\PRN212\Code\OOP3\bin\Debug\net9.0\OOP3.dll
+C:\PRN212\Code\OOP3\bin\Debug\net9.0\OOP3.pdb
+C:\PRN212\Code\OOP3\obj\Debug\net9.0\OOP3.dll
+C:\PRN212\Code\OOP3\obj\Debug\net9.0\refint\OOP3.dll
+C:\PRN212\Code\OOP3\obj\Debug\net9.0\OOP3.pdb
+C:\PRN212\Code\OOP3\obj\Debug\net9.0\OOP3.genruntimeconfig.cache
+C:\PRN212\Code\OOP3\obj\Debug\net9.0\ref\OOP3.dll
