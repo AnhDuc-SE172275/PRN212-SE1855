@@ -10,7 +10,7 @@ namespace OOP5_Dictionary
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public Dictionary<int, Product>Products { get; set; }
+        public Dictionary<int, Product> Products { get; set; }
         public Category()
         {
             Products = new Dictionary<int, Product>();
@@ -22,56 +22,57 @@ namespace OOP5_Dictionary
         {
             if (Products.ContainsKey(p.Id))
             {
-                return;//vì mã đã tồn tại
+                return;//vì mã tồn tại
             }
             Products.Add(p.Id, p);
         }
-        //Xem toàn bộ Product của danh mục
-        public void PrintAllProduct()
+        //Xem toàn bộ Product của danh mục:
+        public void PrintAllProducts()
         {
             foreach (KeyValuePair<int, Product> item in Products)
             {
-                Product p=item.Value;
+                Product p = item.Value;
                 Console.WriteLine(p);
             }
         }
         //Lọc ra các sản phẩm có giá từ x tới y
-        public Dictionary<int, Product>FilterProductByPrice(double min,double max)
+        public Dictionary<int, Product> FilterProductsByPrice(double min, double max)
         {
-            Dictionary<int, Product>results = new Dictionary<int, Product>();
+            Dictionary<int, Product> results = new Dictionary<int, Product>();
             results = Products.Where(item => item.Value.Price >= min &&
-                                             item.Value.Price <= max)
-                                            .ToDictionary<int, Product>();
+                                    item.Value.Price <= max)
+                               .ToDictionary<int, Product>();
             return results;
         }
-        //Sắp xếp sản phẩm theo đơn giá tăng dần:
-        public Dictionary<int, Product>SortProdcutByPrice()
+        //sắp xếp sản phẩm theo đơn giá tăng dần:
+        public Dictionary<int, Product> SortProductByPrice()
         {
             return Products.OrderBy(item => item.Value.Price)
-                                    .ToDictionary<int, Product>();
+                           .ToDictionary<int, Product>();
         }
         /*
-         *Hãy sắp xếp sản phẩm theo đơn giá tăng dần
-         *Nếu đơn giá trùng nhau thì sắp xếp theo số lượng giảm dần
+         * Hãy sắp xếp sản phẩm theo đơn giá tăng dần
+         * nếu đơn giá trùng nhau thì sắp xếp theo số lượng giảm dần
          */
         public Dictionary<int, Product> ComplexSort()
         {
             return Products.OrderByDescending(item => item.Value.Quantity)
-                           .OrderBy(item=> item.Value.Price)
-                           .ToDictionary<int,Product>();
+                           .OrderBy(item => item.Value.Price)
+                           .ToDictionary<int, Product>();
         }
         public bool UpdateProduct(Product p)
         {
             if (p == null) return false;
             if (Products.ContainsKey(p.Id) == false)
                 return false;
-            Products[p.Id] = p;//đè dữ liệu lên ô nhớ hiện tại
+            Products[p.Id] = p;//đè dữ liệu nên ô nhớ hiện tại
                                //hoặc tham chiếu tới ô nhớ khác
             return true;
         }
         public bool RemoveProduct(int id)
         {
-            if(Products.ContainsKey(id) == false) return false;
+            if (Products.ContainsKey(id) == false)
+                return false;
             return Products.Remove(id);
         }
     }

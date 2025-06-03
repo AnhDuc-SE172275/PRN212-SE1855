@@ -16,6 +16,5 @@ namespace OOP5_Dictionary
         {
             return $"{Id}\t{Name}\t{Quantity}\t{Price}";
         }
-
     }
 }
