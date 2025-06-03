@@ -1,0 +1,15 @@
+C:\PRN212\Code\DemoAliasAndClone\bin\Debug\net9.0\DemoAliasAndClone.exe
+C:\PRN212\Code\DemoAliasAndClone\bin\Debug\net9.0\DemoAliasAndClone.deps.json
+C:\PRN212\Code\DemoAliasAndClone\bin\Debug\net9.0\DemoAliasAndClone.runtimeconfig.json
+C:\PRN212\Code\DemoAliasAndClone\bin\Debug\net9.0\DemoAliasAndClone.dll
+C:\PRN212\Code\DemoAliasAndClone\bin\Debug\net9.0\DemoAliasAndClone.pdb
+C:\PRN212\Code\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212\Code\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.AssemblyInfoInputs.cache
+C:\PRN212\Code\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.AssemblyInfo.cs
+C:\PRN212\Code\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.csproj.CoreCompileInputs.cache
+C:\PRN212\Code\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.sourcelink.json
+C:\PRN212\Code\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.dll
+C:\PRN212\Code\DemoAliasAndClone\obj\Debug\net9.0\refint\DemoAliasAndClone.dll
+C:\PRN212\Code\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.pdb
+C:\PRN212\Code\DemoAliasAndClone\obj\Debug\net9.0\DemoAliasAndClone.genruntimeconfig.cache
+C:\PRN212\Code\DemoAliasAndClone\obj\Debug\net9.0\ref\DemoAliasAndClone.dll

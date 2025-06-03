@@ -1,0 +1,15 @@
+C:\PRN212\Code\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN212\Code\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.AssemblyInfoInputs.cache
+C:\PRN212\Code\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.AssemblyInfo.cs
+C:\PRN212\Code\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.csproj.CoreCompileInputs.cache
+C:\PRN212\Code\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.sourcelink.json
+C:\PRN212\Code\OOP5_Dictionary\bin\Debug\net9.0\OOP5_Dictionary.exe
+C:\PRN212\Code\OOP5_Dictionary\bin\Debug\net9.0\OOP5_Dictionary.deps.json
+C:\PRN212\Code\OOP5_Dictionary\bin\Debug\net9.0\OOP5_Dictionary.runtimeconfig.json
+C:\PRN212\Code\OOP5_Dictionary\bin\Debug\net9.0\OOP5_Dictionary.dll
+C:\PRN212\Code\OOP5_Dictionary\bin\Debug\net9.0\OOP5_Dictionary.pdb
+C:\PRN212\Code\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.dll
+C:\PRN212\Code\OOP5_Dictionary\obj\Debug\net9.0\refint\OOP5_Dictionary.dll
+C:\PRN212\Code\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.pdb
+C:\PRN212\Code\OOP5_Dictionary\obj\Debug\net9.0\OOP5_Dictionary.genruntimeconfig.cache
+C:\PRN212\Code\OOP5_Dictionary\obj\Debug\net9.0\ref\OOP5_Dictionary.dll
