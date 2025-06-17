@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "C:\\PRN212\\Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E625762C-B247-4C33-A6EE-C36D32DA674C}|CheckBox_Control\\CheckBox_Control.csproj|c:\\prn212\\code\\checkbox_control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E625762C-B247-4C33-A6EE-C36D32DA674C}|CheckBox_Control\\CheckBox_Control.csproj|solutionrelative:checkbox_control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{11B11043-D3A7-4C34-94E8-BB1A4E64CE95}|ListWpf\\ListWpf.csproj|c:\\prn212\\code\\listwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11B11043-D3A7-4C34-94E8-BB1A4E64CE95}|ListWpf\\ListWpf.csproj|solutionrelative:listwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E625762C-B247-4C33-A6EE-C36D32DA674C}|CheckBox_Control\\CheckBox_Control.csproj|c:\\prn212\\code\\checkbox_control\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E625762C-B247-4C33-A6EE-C36D32DA674C}|CheckBox_Control\\CheckBox_Control.csproj|solutionrelative:checkbox_control\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PRN212\\Code\\CheckBox\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckBox\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA98C417-2B4F-4ED6-9DF8-A78B5D0EC6D9}|RadioButton_Control\\RadioButton_Control.csproj|c:\\prn212\\code\\radiobutton_control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DA98C417-2B4F-4ED6-9DF8-A78B5D0EC6D9}|RadioButton_Control\\RadioButton_Control.csproj|solutionrelative:radiobutton_control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA98C417-2B4F-4ED6-9DF8-A78B5D0EC6D9}|RadioButton_Control\\RadioButton_Control.csproj|c:\\prn212\\code\\radiobutton_control\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA98C417-2B4F-4ED6-9DF8-A78B5D0EC6D9}|RadioButton_Control\\RadioButton_Control.csproj|solutionrelative:radiobutton_control\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{955B1092-3D6B-4085-8EDB-EE59F3A87CBE}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|c:\\prn212\\code\\buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{955B1092-3D6B-4085-8EDB-EE59F3A87CBE}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{955B1092-3D6B-4085-8EDB-EE59F3A87CBE}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|c:\\prn212\\code\\buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{955B1092-3D6B-4085-8EDB-EE59F3A87CBE}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PRN212\\Code\\CheckBox\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckBox\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11B11043-D3A7-4C34-94E8-BB1A4E64CE95}|ListWpf\\ListWpf.csproj|c:\\prn212\\code\\listwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B11043-D3A7-4C34-94E8-BB1A4E64CE95}|ListWpf\\ListWpf.csproj|solutionrelative:listwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,95 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\PRN212\\Code\\CheckBox_Control\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "CheckBox_Control\\MainWindow.xaml",
-              "ToolTip": "C:\\PRN212\\Code\\CheckBox_Control\\MainWindow.xaml",
-              "RelativeToolTip": "CheckBox_Control\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\PRN212\\Code\\ListWpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ListWpf\\MainWindow.xaml",
+              "ToolTip": "C:\\PRN212\\Code\\ListWpf\\MainWindow.xaml",
+              "RelativeToolTip": "ListWpf\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T03:47:44.129Z",
+              "WhenOpened": "2025-06-17T03:55:39.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\PRN212\\Code\\CheckBox_Control\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "CheckBox_Control\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\PRN212\\Code\\CheckBox_Control\\MainWindow.xaml.cs",
-              "RelativeToolTip": "CheckBox_Control\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwDMAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\PRN212\\Code\\ListWpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ListWpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\PRN212\\Code\\ListWpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ListWpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T03:47:42.478Z",
+              "WhenOpened": "2025-06-17T03:55:39.124Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\PRN212\\Code\\RadioButton_Control\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "RadioButton_Control\\MainWindow.xaml",
-              "ToolTip": "C:\\PRN212\\Code\\RadioButton_Control\\MainWindow.xaml",
-              "RelativeToolTip": "RadioButton_Control\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T03:19:18.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\PRN212\\Code\\RadioButton_Control\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "RadioButton_Control\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\PRN212\\Code\\RadioButton_Control\\MainWindow.xaml.cs",
-              "RelativeToolTip": "RadioButton_Control\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAwDEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T03:19:17.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\PRN212\\Code\\CheckBox\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "CheckBox\\MainWindow.xaml",
-              "ToolTip": "C:\\PRN212\\Code\\CheckBox\\MainWindow.xaml",
-              "RelativeToolTip": "CheckBox\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T03:03:44.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\PRN212\\Code\\CheckBox\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "CheckBox\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\PRN212\\Code\\CheckBox\\MainWindow.xaml.cs",
-              "RelativeToolTip": "CheckBox\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T03:03:42.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\PRN212\\Code\\ButtonControl_TongHop\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml",
-              "ToolTip": "C:\\PRN212\\Code\\ButtonControl_TongHop\\MainWindow.xaml",
-              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T04:08:06.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\PRN212\\Code\\ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\PRN212\\Code\\ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T04:08:05.612Z"
             }
           ]
         }
