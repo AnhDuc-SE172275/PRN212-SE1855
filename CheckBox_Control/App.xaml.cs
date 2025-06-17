@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace CheckBox
+namespace CheckBox_Control
 {
     /// <summary>
     /// Interaction logic for App.xaml

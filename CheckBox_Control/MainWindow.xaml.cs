@@ -40,12 +40,12 @@ namespace CheckBox
                 chkDuLich.IsChecked == true &&
                 chkDaBong.IsChecked == true &&
                 chkXemPhim.IsChecked == true)
-                chkToanBo.IsChecked = true; 
+                chkToanBo.IsChecked = true;
             else if (chkCongNghe.IsChecked == false &&
                      chkDuLich.IsChecked == false &&
                      chkDaBong.IsChecked == false &&
                      chkXemPhim.IsChecked == false)
-                chkToanBo.IsChecked = false; 
+                chkToanBo.IsChecked = false;
         }
 
     }

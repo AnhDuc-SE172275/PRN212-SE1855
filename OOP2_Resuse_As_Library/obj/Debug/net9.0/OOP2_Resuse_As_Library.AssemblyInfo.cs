@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP2_Resuse_As_Library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da32e180a5c36aedca9bc111c19018ce9f863597")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5287492d7c5f756265e5e03fc6d3d19b38455beb")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP2_Resuse_As_Library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP2_Resuse_As_Library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
