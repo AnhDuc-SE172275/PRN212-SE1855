@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CheckBox"
         mc:Ignorable="d"
-        Title="SE182275-Vũ Anh Đức" Height="450" Width="800">
+        Title="SE172275-Vũ Anh Đức" Height="450" Width="800">
     <StackPanel>
         <Label>Bạn thích những gì?</Label>
         <CheckBox Name="chkToanBo" 
